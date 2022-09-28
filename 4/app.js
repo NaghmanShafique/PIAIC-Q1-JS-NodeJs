@@ -1,0 +1,1 @@
+console.log('Hazrat Umer Bin Khitab'+' Once said,"'+'Stick the truth even if the truth kills you.'+'"')

@@ -1,0 +1,10 @@
+var myName = 'naghman shafeeque';
+alert(myName.toUpperCase());
+
+alert(myName.toLowerCase());
+
+const words = myName.split(' ');
+for(var i = 0; i< words.length; i++){
+    words[i] = words[i][0].toUpperCase() + words[i].slice(1);
+ }
+ alert(words.join(" "));
